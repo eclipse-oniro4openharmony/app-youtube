@@ -1,11 +1,15 @@
 {
-  "license": "ISC",
-  "devDependencies": {
-    "@ohos/hypium": "1.0.6"
-  },
-  "name": "webapp",
-  "description": "example description",
-  "repository": {},
+  "modelVersion": "5.0.2",
+  "name": "youtube",
   "version": "1.0.0",
-  "dependencies": {}
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.13",
+    "@ohos/hamock": "1.0.0"
+  }
 }

@@ -1,7 +1,7 @@
-import webview from '@ohos.web.webview';
-import hilog from '@ohos.hilog';
-//import parameter from '@ohos.systemparameter'  => Deprecated API
 import  deviceInfo  from '@ohos.deviceInfo'
+import { webview } from '@kit.ArkWeb';
+import { hilog } from '@kit.PerformanceAnalysisKit';
+
 // no User Agent, test
 // https://tool.lu/useragent
 // Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36
